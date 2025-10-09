@@ -9,6 +9,4 @@ I think Touhou is cool
 
 Using: Arch Linux
 
-Working on: KoaOS
-
 Learning: C++
