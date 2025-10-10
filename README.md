@@ -1,4 +1,4 @@
-## Howdy! :3
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Howdy!+:3)](https://git.io/typing-svg)
 ![chen waving](chenwave.gif)
 
 I'm a trans girl who loves to code<br>
