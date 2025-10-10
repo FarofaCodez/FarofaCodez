@@ -5,5 +5,5 @@ I'm a trans girl who loves to code<br>
 I know C++, Python and web<br>
 I think Touhou is cool
 
-Using: Arch Linux<br>
+Using: Fedora KDE Plasma Desktop<br>
 Learning: C++
